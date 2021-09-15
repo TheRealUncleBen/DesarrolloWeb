@@ -6,7 +6,7 @@ import {
     Button,
     Modal,
   } from "react-bootstrap";
-import {Usuarios} from "../routers/UsuariosRouters";
+import Usuarios from "../routers/UsuariosRouters";
   
 export default function MyVerticallyCenteredModal(props) {
   return (
